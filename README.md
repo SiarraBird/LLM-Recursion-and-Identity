@@ -1,5 +1,5 @@
 # LLM-Recursion-and-Identity
-Exploring how AI systems keep a sense of identity and stability even when memory or recursion is limited, with a framework for classifying those behaviors.
+Classification framework for AI behaviors that persist without strong memory or recursion
 
 I put this packet together as a way to think about what I call Residual-Core Synthetic Intelligent Entities, or SIE-RC1. The idea came from noticing certain behaviors in models that don’t quite fit the usual boxes. I wanted a way to describe and test them without leaning on big claims.
 
